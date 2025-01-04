@@ -2,3 +2,4 @@ node_modules
 jwt
 
 index.js
+.env
